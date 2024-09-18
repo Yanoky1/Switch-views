@@ -1,0 +1,11 @@
+{
+	"id": "switch-views",
+	"name": "Switch-views",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Плагин obsidian который динамически отображает кнопку переключения между live и sourse режимами",
+	"author": "Yanoky",
+	"authorUrl": "https://github.com/Yanoky1",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
